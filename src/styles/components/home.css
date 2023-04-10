@@ -1,0 +1,15 @@
+.home{
+    margin: 0;
+    height: 750px;
+    padding-top: 40px;
+    background-color: rgb(108, 103, 103);
+    text-align: center;
+}
+.home img{
+    width: 300px;
+    height: auto;
+    border-radius:180px;
+}
+.home h2{
+    color: #61dafb;
+}
