@@ -36,7 +36,7 @@ const About = () => {
               rel="noreferrer"
               href="https://portfolio-fatao.web.app"
             >
-              https://portfolio-fatao.web.app
+              portfolio-fatao
             </a>{" "}
           </span>
         </p>
