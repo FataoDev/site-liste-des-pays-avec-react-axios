@@ -1,0 +1,13 @@
+.about{
+    padding:15px;
+    font-size: 2em;
+}
+p >p> span >a{
+    color: black;
+    text-decoration: none;
+}
+
+p >p> span{
+    font-weight: 700;
+    margin-left: 5px;
+}
